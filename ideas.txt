@@ -1,1 +1,5 @@
 # This is for any designers to put their ideas here
+Idea 1:  The game would seem like a totally normal game (maybe a stereotypical 2D platformer). But we would scatter secrets across the levels, from here we could go 2 different paths:  
+  1. We make it so the when the player interacts with the secrets he's met with unique stages (we could either make the stages a unique take on the 2D platformer or completley different games). We could then add secrets within these levels which make a complete story and if the player completes all these secret stages he gets an alternate ending (similiar to shipwrecked 64).
+  2a. We could make it that the player has to find all the secrets throughout the levels to reach a completley different game (the actual game).
+  2b. We could make it that the player has to find 1 secret (maybe via puzzle solving or collecting clue around the levels to help find the secret) to find the "actual game".
